@@ -72,9 +72,9 @@ const TRACK_PLAYERSTART = 2;
 const TRACK_FINISH_LINE = 9;
 
 function trackLoadImages(){
-  roadPic.src = "track_road.png";
-  wallPic.src = "track_wall.png";
-  finishPic.src = "track_finish.png";
+  roadPic.src = "./images/track_road.png";
+  wallPic.src = "./images/track_wall.png";
+  finishPic.src = "./images/track_finish.png";
 }
 //checking type of tile (for winning condition)
 function returnTileTypeAtColRow(col, row) {

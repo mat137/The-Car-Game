@@ -14,8 +14,8 @@ function carImageLoad(){
   carPic.onload = function(){
     carPicLoaded = true;
   }
-  carPic.src = "player1car.png";
-  pinkCarPic.src = "endriuCar.png";
+  carPic.src = "./images/player1car.png";
+  pinkCarPic.src = "./images/endriuCar.png";
 }
 
 function carClass(name){
