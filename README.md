@@ -7,3 +7,7 @@ link: https://mat137.github.io/
 ## Navigation
 For blue car: W,A,S,D
 For pink car: arrows
+
+##License
+
+MIT License Copyright (c) 2017 Mateusz Piłat
