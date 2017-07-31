@@ -8,6 +8,6 @@ link: https://mat137.github.io/
 For blue car: W,A,S,D
 For pink car: arrows
 
-##License
+## License
 
 MIT License Copyright (c) 2017 Mateusz Piłat
